@@ -2,4 +2,8 @@
 
     <string name="app_name">AndroFragments</string>
 
+    <string name="this_is_frag_2">This is frag 2</string>
+
+    <string name="press_the_left_button">press the left button</string>
+
 </resources>
