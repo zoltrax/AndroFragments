@@ -1,6 +1,6 @@
 package com.androfragments;
 
-import com.example.androfragments.R;
+import com.androfragments.R;
 import android.app.Fragment;
 import android.os.Bundle;
 import android.view.LayoutInflater;
